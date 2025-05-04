@@ -2,7 +2,7 @@
 
 A textarea (with vim)
 
-<img width="2560" alt="image" src="https://github.com/luthfyhakim/typehere/screenshoot.png">
+<img width="2560" alt="image" src="https://raw.githubusercontent.com/luthfyhakim/typehere/refs/heads/main/screenshoot.png">
 
 ## How To Use
 
