@@ -2,11 +2,7 @@
 
 A textarea (with vim)
 
-<img width="2560" alt="image" src="https://github.com/shaoruu/typehere.app/assets/35216312/4fdcbb50-6d84-48f4-88d8-07e5f3547a92">
-
-## Inspirations
-
-I used to use typehere.co a lot until the site was taken down, so I created [typehere.app](https://typehere.app). For a long while, it was also just a textarea that saved its contents to `localStorage`, but recently I've decided to add more features that I would find useful myself.
+<img width="2560" alt="image" src="https://github.com/luthfyhakim/typehere/screenshoot.png">
 
 ## How To Use
 
@@ -15,7 +11,7 @@ I used to use typehere.co a lot until the site was taken down, so I created [typ
   - Notes are the notes you've created, commands are things like theme toggle, vim toggle, show/hide scrollbar, import/export, etc.
 - Navigate in the Cmd-K menu by up/down arrows.
 - Create a new note by typing the note title and run the create note command.
-  - Or you could do cmd+shift+enter. 
+  - Or you could do cmd+shift+enter.
 - Enter a note or run a command by pressing "Enter" or clicking on it.
 - Workspaces is the way to separate notes into different "groups" under cmd-K.
   - You can create a workspace by doing cmd-K, type in a workspace name, and "Create workspace". This creates a workspace with an empty note.
@@ -34,7 +30,7 @@ I used to use typehere.co a lot until the site was taken down, so I created [typ
 
 ## Other Features
 
-- Offline mode 
+- Offline mode
 - Everything client-side, all in `localStorage`
 - Periodically backed up to `indexedDB` (also in your browser)
 - Import/export notes
